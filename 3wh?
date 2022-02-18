@@ -1,6 +1,6 @@
 Task1:  Tìm hiều về bootstrap
 1.	What?
--	Là một nền tảng front-end framework mã nguồn mã sử dụng HTML, CSS, Javascript dùng để thiết kế web một cách nhanh chóng và linh hoạt trên đa thiết bị. Bootstrap giúp cho việc xây dựng và thiết kế mấu website chuẩn responsive design
+-	Là một nền tảng front-end framework mã nguồn mã sử dụng HTML, CSS, Javascript dùng để thiết kế web một cách nhanh chóng và linh hoạt trên đa thiết bị. Giúp cho việc xây dựng và thiết kế mấu website chuẩn responsive design
 -	Bootstrap chứa các tập tin JS, CSS và font được biên dịch và nén lại. Được cung cấp sẵn các thành phần cơ bản: navigation, button, form, table, …
 -   Mục tiêu chính là tạo ra reponsive website: cho phép giao diện người dùng trang web có thể hoạt động trên mọi kích thước màn hình(điện thoại, tablet, màn hình máy tính,..)
 -	Chức năng: 
